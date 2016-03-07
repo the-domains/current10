@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[current10]]></title>
+        <description><![CDATA[current10]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 21:31:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Launch - A Marketing Experiment]]></title>
+            <description><![CDATA[<article><h1>Launch - A Marketing Experiment</h1><h2>Beta week</h2><p>Launchis an experiment that will be exploring the beginning stages of this website. Beginning with the week long beta test, we will be displaying the performance and metrics used for organic, paid and social traffic techniques we activate with this website.</p></article>]]></description>
+            <link>undefinedlaunch-a-marketing-experiment/index.html</link>
+            <guid isPermaLink="false">da7d43e9-e134-46a7-9c73-2e48db2d3d5a</guid>
+            <pubDate>Mon, 07 Mar 2016 21:31:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
