@@ -2,12 +2,13 @@ name: current10
 favicon: null
 layout_spectrum: 0.4001966961659491
 typography_spectrum: 0.7930828821845353
+title: Current10-like Test Site for Grid Beta
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74844900-1
   facebook: null
   twitter: null
 opengraph:
